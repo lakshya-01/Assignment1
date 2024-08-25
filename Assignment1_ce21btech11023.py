@@ -1,3 +1,6 @@
+Lakshya Mukhija
+CE21BTECH11023
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
